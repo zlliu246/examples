@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Dispa
 
 # Telegram bot token goes here
 # IMPORTANT - remmeber to use .env files if you're committing to a public repository on github
-TOKEN="1728636860:AAGXUhptfiVlhziXmwziaARdvJE92-gruTI"
+TOKEN="1728636860:abcdefghijklmnop"
 
 def route(update, context):
     text = update.message.text
